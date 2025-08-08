@@ -1,0 +1,5 @@
+pdfplumber 
+openai
+pytesseract
+openpyxl
+pandas

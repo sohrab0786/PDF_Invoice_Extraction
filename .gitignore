@@ -1,0 +1,15 @@
+GST Invoices/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.xlsx
+.venv/
+
+.env
+*.env
+app/config/config/Config.py
+config/Config.py
